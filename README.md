@@ -4,12 +4,14 @@ cloudshell-novnc-automation
 
 Google Cloudshell Free VPS with Docker-novnc and Ngrok - AUTOMATION
 
-Go To https://shell.cloud.google.com and use the below commands
+Go To https://shell.cloud.google.com 
+and use the below commands
 Before starting script give root permission
+
 $ sudo su
 
 1.cloning git repository
-$ git clone 'https://github.com/developeranaz/cloudshell-novnc-automation'
+$ git clone https://github.com/cnnindonesia/NEWRDP2023.git
 
 2.change dir
 $ cd cloudshell-novnc-automation
